@@ -4,9 +4,6 @@
 
 ## Preview
 
-![Resume Preview](https://github.com/dhavalsp/dhaval-patel/blob/master/img/Resume.PNG?raw=true)
-
-
 **[View Live Preview](https://dhavalsp.github.io/dhaval-patel/)**
 
 ## Download and Installation
