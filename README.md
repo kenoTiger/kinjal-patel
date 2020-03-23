@@ -4,7 +4,7 @@
 
 ## Preview
 
-**[View Live Preview](https://dhavalsp.github.io/dhaval-patel/)**
+**[View Live Preview](https://kenotiger.github.io/kinjal-patel/)**
 
 ## Download and Installation
 
@@ -12,7 +12,7 @@ To begin using this template, choose one of the following options to get started
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
 * Install via npm: `npm i startbootstrap-resume`
 * Clone the repo: `git clone https://github.com/dhavalsp/dhaval-patel.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/dhavalsp/dhaval-patel.git)
+
 
 
 
